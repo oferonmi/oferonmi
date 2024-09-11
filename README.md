@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an EE graduate, currently working on Knaitsys, a project focused on utilizing new development in artificial intelligent systems (AI) for understanding, innovating and building. I am interested in collaborating on projects related to AI systems, distributed computing, embedded systems, Engineering design (EDA, CAD) & Computational Science and Engineering (CSE). I enjoy outdoor adventures and Motorsport (F1 and WRC).
+I am an EE graduate, currently working on Knaitsys, a project focused on utilizing new development in artificial intelligent systems (AI) for understanding, innovating and building. I am interested in collaborating on projects related to AI systems, distributed computing, embedded systems, engineering design (EDA, CAD) & computational science and engineering (CSE). I enjoy outdoor adventures and Motorsport (F1 and WRC).
 
 
 ## 🌐 Socials:
