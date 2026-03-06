@@ -1,5 +1,5 @@
 # 💫 About Me:
-EE graduate. Interested in projects involving AI/learning systems, accelerated and embedded computing, distributed and federated systems, engineering design (EDA, CAD) & computational science and engineering (CSE). A fan of motorsport ((F1 and WRC))and enjoy outdoor adventures.
+EE graduate. Interested in projects involving AI/learning systems, accelerated and embedded computing, distributed and federated systems, engineering design (EDA, CAD) & computational science and engineering (CSE). A fan of motorsport (F1 and WRC)and enjoy outdoor adventures.
 
 
 ## 🌐 Socials:
